@@ -1,0 +1,33 @@
+{
+  "name": "apigestion",
+  "version": "1.0.0",
+  "description": "API con SQL Server para manejo de datos con proyecto de gestion",
+  "main": "main.js",
+  "scripts": {
+    "test": "test main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuelCarok/nodeAPIGestion.git"
+  },
+  "keywords": [
+    "GIT",
+    "SQL",
+    "Server",
+    "Express",
+    "NodeJS",
+    "Fullcalendar"
+  ],
+  "author": "Manuel Caroca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManuelCarok/nodeAPIGestion/issues"
+  },
+  "homepage": "https://github.com/ManuelCarok/nodeAPIGestion#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mssql": "^4.1.0"
+  }
+}
